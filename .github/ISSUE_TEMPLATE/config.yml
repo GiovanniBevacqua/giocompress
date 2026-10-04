@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: WordPress.org support forum
+    url: https://wordpress.org/support/plugin/giocompress/
+    about: Questions about using GioCompress.
+  - name: Report a security vulnerability
+    url: https://github.com/GiovanniBevacqua/giocompress/security/advisories/new
+    about: Please report security issues privately, not as public issues.
